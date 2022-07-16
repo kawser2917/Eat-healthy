@@ -1,0 +1,50 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    word-spacing: 3px;
+    margin: 0;
+}
+
+section{
+    display: flex;
+}
+.bg{
+    background-image: url(images/shapes/Frame 57.jpg);
+    background-repeat: no-repeat;
+}
+.half{
+    width: 50%;
+}
+div img{
+    width: 100%;
+    height: 75%;
+}
+.bottom{
+    margin-top: 200px;
+    margin-left: 40px;
+}
+span{
+    color: rgb(0, 255, 42);
+}
+
+button{
+    padding: 15px;
+    border-radius: 15px;
+    background-image: linear-gradient(red,tomato);
+}
+
+.text{
+    margin-top: 200px;
+}
+
+.bg-image{
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+#bottom{
+    margin-top: 200px;
+    margin-left: 30px;
+}
+#image-size{
+    display: block;
+    margin-top: 25px;
+}
