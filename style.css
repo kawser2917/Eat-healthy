@@ -7,10 +7,7 @@ body{
 section{
     display: flex;
 }
-.bg{
-    background-image: url(images/shapes/Frame 57.jpg);
-    background-repeat: no-repeat;
-}
+ 
 .half{
     width: 50%;
 }
@@ -47,4 +44,7 @@ button{
 #image-size{
     display: block;
     margin-top: 25px;
+}
+.recipie{
+    text-align: center;
 }
